@@ -1,2 +1,2 @@
-# myimage
+# Myimage
 My Image 
